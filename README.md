@@ -5,7 +5,7 @@ This program is a spam program made with C#. Although designed for Discord, it c
 ![Screenshot](picture.png)
 
 # Settings
-###H3 header
+## Interval
 The first setting, Interval, takes the entered value in seconds and pauses after sending the number of messages you entered in the second settings. If you enter the value 0, it will send a continuous message.
 
 --------------------------
