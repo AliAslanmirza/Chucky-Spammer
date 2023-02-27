@@ -5,7 +5,12 @@ This program is a spam program made with C#. Although designed for Discord, it c
 ![Screenshot](picture.png)
 
 # Settings
-
-The first setting, Interval, takes the entered value in seconds and pauses after sending the number of messages you entered in the 2. settings.
+###H3 header
+The first setting, Interval, takes the entered value in seconds and pauses after sending the number of messages you entered in the second settings. If you enter the value 0, it will send a continuous message.
 
 --------------------------
+
+The second setting determines the number of consecutive messages to be sent in succession. It sends the entered number of messages, then waits for the value in the first setting and this process continues.
+
+--------------------------
+
